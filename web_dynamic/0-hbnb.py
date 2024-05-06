@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Flask App that integrates with AirBnB static HTML Template
+Flask App that integrates with AirBnB the static template of HTML
 """
 from flask import Flask, render_template, url_for
 from models import storage
@@ -43,5 +43,6 @@ def hbnb_filters(the_id=None):
 
 if __name__ == "__main__":
     """
-    MAIN Flask App"""
+    The MAIN Flask App
+    """
     app.run(host=host, port=port)

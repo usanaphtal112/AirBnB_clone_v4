@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Naphtal USABYUWERA - [Github](https://github.com/usanaphtal112) / [Twitter](https://twitter.com/usanaphtal112)
-
+SANDRINE UWIZEYIMANA - [Github](https://github.com/2100032578cse) / [Twitter](https://twitter.com/Sandrinerw)
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
